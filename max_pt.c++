@@ -1,6 +1,4 @@
 %Frank King
-%EGR 271- Circuit Theory 1
-%Matlab Assignment 3 problem 3
 % This program will graph the power versus resistor on a graph to determine
 % the max resistor value for max power.
 % The max resistor value equals the thevenin equivalent resistor
